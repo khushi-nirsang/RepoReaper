@@ -1,0 +1,6 @@
+.cache/
+dist/
+reporeaper
+reporeaper.exe
+*.tmp
+*.test
